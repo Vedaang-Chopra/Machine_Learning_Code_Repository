@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d622c2e-bac9-4d2e-86fa-da5688e18915" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Classification_Measures/f-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Feature_Scaling/Feature Scaling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/0000000000000826.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/iris_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/iris_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_To_Machine_Learning/f-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-via-NLTK.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/f-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/f-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/f-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natural_Language_Processing/sub_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/Decision Trees1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/Iris_dataset_Decision_Tree.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/KNN Scratch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/KNN-original.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01(Introduction_to_KNN).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Logistic_Regression/f-01(Introduction_to_Logistic_Regression).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes/NaiveBayes5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes/f-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/GridSearchCV.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/SVM-Iris.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/f-02(Python Implementation of Linear Regression).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/linear_regression_on_dummy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/GradientDescent.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Lecture_Notes/PCA-3D.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Lecture_Notes/PCA2D.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/.ipynb_checkpoints/PCA_Notes-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/1pca.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/2pca.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/3d_points.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/3pca.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/PCA_Notes/PCA_Notes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unsupervised_Learning/Dimension_Reduction_Algorithms/PCA/f-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Machine_Learning_Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine_Learning_Tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear_Regression/f-01(Linear Simple regression using pre-defined functions).py" beforeDir="false" afterPath="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/f-01(Linear Simple regression using pre-defined functions).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas_Library/f-01(Introduction and Manipulating  Data Frames) .py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-01(Introduction and Manipulating  Data Frames) .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas_Library/f-02(Manipulating Data Frames).py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-02(Manipulating Data Frames).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas_Library/f-03(Handling NaN and strings).py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Pandas_Library_and_Data_Pre_Processing/f-03(Handling NaN and strings).py" afterDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/Machine_Learning.iml" beforeDir="false" afterPath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/Machine_Learning.iml" afterDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/modules.xml" beforeDir="false" afterPath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/workspace.xml" beforeDir="false" afterPath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Classification_Measures/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Decision_Trees/Decision Trees1.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Decision_Trees/f-01.pdf" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Decision_Trees/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Feature_Scaling/Feature Scaling.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Gradient_Descent/GradientDescent.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Gradient_Descent/data.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Gradient_Descent/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Gradient_Descent/f-02.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Gradient_Descent/f-03.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/KNN/KNN Scratch.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/KNN/KNN-original.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/KNN/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Linear_Regression/data.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Linear_Regression/f-02.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Linear_Regression/linear_regression_on_dummy.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Logistic_Regression/f-01().py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Logistic_Regression/f-02.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/f-04.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/f-05.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/iris_dataframe.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/titanic_train.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/Movie-Reviews-SKLearn-CountVectorizer.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/Movie-Reviews-SKLearn-CountVectorizer2.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/Movie-Reviews-SKLearn-CountVectorizer3.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/Movie-Reviews-SKLearn-via-NLTK.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/f-02.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/f-03.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/NLP/sub_1.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Naive_Bayes/NaiveBayes5.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Naive_Bayes/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Lecture_Notes/PCA-3D.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Lecture_Notes/PCA2D.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Notes/.ipynb_checkpoints/PCA_Notes-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Notes/1pca.bmp" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Notes/2pca.bmp" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Notes/3d_points.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Notes/3pca.bmp" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/PCA_Notes/PCA_Notes.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/PCA/f-01.py" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Pandas_Library/0000000000000826.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Pandas_Library/iris_dataframe.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Pandas_Library/titanic_train.csv" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/SVM/GridSearchCV.ipynb" beforeDir="false" />
+      <change beforePath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/SVM/SVM-Iris.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Numpy_.coverage" NAME="f-01(Introduction_to_Numpy) Coverage Results" MODIFIED="1580073630951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Libraries/Numpy" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_04_Plotting_Decison_Boundary_on_Iris_Dataset_using_SVM_.coverage" NAME="f-04(Plotting_Decison_Boundary_on_Iris_Dataset_using_SVM) Coverage Results" MODIFIED="1580870480599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Building_KNN_from_Scratch_.coverage" NAME="f-03(Building_KNN_from_Scratch) Coverage Results" MODIFIED="1580948978535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Decision_Trees_.coverage" NAME="f-01(Introduction_to_Decision_Trees) Coverage Results" MODIFIED="1581027278516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Operations_on_Numpy_Array_.coverage" NAME="f-02(Operations on Numpy Array) Coverage Results" MODIFIED="1580073280519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Libraries/Numpy" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Linear_Simple_regression_using_pre_defined_functions_.coverage" NAME="f-01(Linear Simple regression using pre-defined functions) Coverage Results" MODIFIED="1580851311792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Logistic_Regression_.coverage" NAME="f-01(Introduction_to_Logistic_Regression) Coverage Results" MODIFIED="1580772054415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Logistic_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree_.coverage" NAME="f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree) Coverage Results" MODIFIED="1581037681544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Effects_of_C_on_Decision_Boundary_.coverage" NAME="f-02(Understanding_Effects_of_C_on_Decision_Boundary) Coverage Results" MODIFIED="1580861126047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_SVM_.coverage" NAME="f-01(Introduction_to_SVM) Coverage Results" MODIFIED="1580860623167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Customizing_our_Graphs_.coverage" NAME="f-02(Customizing_our_Graphs) Coverage Results" MODIFIED="1580952515255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Matplotlib_.coverage" NAME="f-01(Introduction to Matplotlib) Coverage Results" MODIFIED="1580950865324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_SVM_Iris_Data_.coverage" NAME="f-03(SVM_Iris_Data) Coverage Results" MODIFIED="1580869650093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Plotting_Logistic_Regression_.coverage" NAME="f-02(Plotting_Logistic_Regression) Coverage Results" MODIFIED="1580932579320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Logistic_Regression" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_04_Data_Pre_Processing_with_SKLearn_.coverage" NAME="f-04(Data Pre Processing with SKLearn) Coverage Results" MODIFIED="1580062521333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas_Library_and_Data_Pre_Processing" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Cross_Validation_.coverage" NAME="f-02(Understanding_Cross_Validation) Coverage Results" MODIFIED="1580948471164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_03_Creating_Pie_Charts_.coverage" NAME="f-03(Creating_Pie_Charts) Coverage Results" MODIFIED="1580953623893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_01_Introduction_to_Feature_Scaling_.coverage" NAME="f-01(Introduction_to_Feature_Scaling) Coverage Results" MODIFIED="1580683379872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature_Scaling" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Code_Repository$f_02_Understanding_Cross_Validation_and_relation_between_K_and_Score__.coverage" NAME="f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score ) Coverage Results" MODIFIED="1580948762364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>desc</find>
+      <find>replace</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/f-04.py" />
+        <option value="$PROJECT_DIR$/Plotting_Graphs/f-01(Introduction to Matplotlib).py" />
+        <option value="$PROJECT_DIR$/K-Nearest Neighbour/f-01.py" />
+        <option value="$PROJECT_DIR$/Pandas_Library_and_Data_Pre_Processing/f-03(Handling NaN and strings).py" />
+        <option value="$PROJECT_DIR$/Pandas_Library_and_Data_Pre_Processing/f-04(Data Pre Processing with SKLearn).py" />
+        <option value="$PROJECT_DIR$/Python_Libraries/Numpy/f-02(Operations on Numpy Array).py" />
+        <option value="$PROJECT_DIR$/Python_Libraries/Numpy/f-01(Introduction_to_Numpy).py" />
+        <option value="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Linear_Regression/f-02.py" />
+        <option value="$PROJECT_DIR$/Feature_Scaling/f-01(Introduction_to_Feature_Scaling).py" />
+        <option value="$PROJECT_DIR$/Linear_Regression/f-01(Linear Simple regression using pre-defined functions).py" />
+        <option value="$PROJECT_DIR$/Multi_Variable_ Regression_and_Gradient-Descent/f-01.py" />
+        <option value="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Logistic_Regression/f-02.py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Logistic_Regression/f-01().py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Logistic_Regression/f-01(Introduction_to_Logistic_Regression).py" />
+        <option value="$PROJECT_DIR$/Natural_Language_Processing/f-01(Introduction_to_NLP).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-01(Introduction_to_SVM).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-02(Understanding_Effects_of_C_on_Decision_Boundary).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-03(SVM_Iris_Data).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-04(Plotting_Iris_Classes_using_SVM).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-04(Plotting_Decison_Boundary_on_Iris_Dataset_using_SVM).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-05(Using_Grid_Search_with_SVM).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Logistic_Regression/f-02(Plotting_Logistic_Regression).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01.py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01(Introduction_to_KNN_and_Cross_Validation).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01(Introduction_to_KNN).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/KNN-original.ipynb" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-02(Understanding_Cross_Validation).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score ).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-03(Building_KNN_from_Scratch).py" />
+        <option value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-02().py" />
+        <option value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-01(Introduction to Matplotlib).py" />
+        <option value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-02(Customizing_our_Graphs).py" />
+        <option value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-03(Creating_Pie_Charts).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/f-01.py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/f-01(Introduction_to_Decision_Trees).py" />
+        <option value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests/f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree).py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Machine_Learning_Code_Repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_Learning_Code_Repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Deep_Learning" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Introduction_To_Machine_Learning" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Supervised_Learning\Classification_Techniques\Naive_Bayes" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Supervised_Learning\Classification_Techniques\Decision_Trees" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Supervised_Learning\Regression_Techniques\Linear_Regression" />
+      <recent name="D:\Artificial Intelligence\Code Repository\Machine_Learning_Code_Repository\Data_Pre_Processing_and_Model_Evaluation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree)">
+    <configuration name="f-01(Introduction to Matplotlib)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-01(Introduction to Matplotlib).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-01(Introduction_to_Decision_Trees)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/f-01(Introduction_to_Decision_Trees).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests/f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-02(Customizing_our_Graphs)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-02(Customizing_our_Graphs).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f-03(Creating_Pie_Charts)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine_Learning_Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-03(Creating_Pie_Charts).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree)" />
+        <item itemvalue="Python.f-01(Introduction_to_Decision_Trees)" />
+        <item itemvalue="Python.f-03(Creating_Pie_Charts)" />
+        <item itemvalue="Python.f-02(Customizing_our_Graphs)" />
+        <item itemvalue="Python.f-01(Introduction to Matplotlib)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d622c2e-bac9-4d2e-86fa-da5688e18915" name="Default" comment="" />
+      <created>1540199213235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540199213235</updated>
+      <workItem from="1579615102949" duration="8111000" />
+      <workItem from="1579887949013" duration="3770000" />
+      <workItem from="1580040789071" duration="13487000" />
+      <workItem from="1580125458362" duration="3466000" />
+      <workItem from="1580493537126" duration="1703000" />
+      <workItem from="1580556205758" duration="10964000" />
+      <workItem from="1580671609112" duration="5459000" />
+      <workItem from="1580738802027" duration="9634000" />
+      <workItem from="1580771674556" duration="2467000" />
+      <workItem from="1580820972576" duration="11423000" />
+      <workItem from="1580925949001" duration="15444000" />
+      <workItem from="1580997103843" duration="10166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26545843" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33802816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33802816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01(Introduction_to_KNN).py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/f-01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/f-02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/f-03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-CountVectorizer3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/Movie-Reviews-SKLearn-via-NLTK.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Natural_Language_Processing/sub_1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Numpy/f-01(Introduction_to_Numpy).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Python_Libraries/Numpy/f-02(Operations on Numpy Array).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#53#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/f-01(Linear Simple regression using pre-defined functions).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-01(Introduction_to_SVM).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+          <folding>
+            <element signature="e#141#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/SVM-Iris.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/svm/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="921" selection-start-line="921" selection-end-line="921" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-03(SVM_Iris_Data).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-end-line="34" />
+          <folding>
+            <element signature="e#65#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/GridSearchCV.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-05(Using_Grid_Search_with_SVM).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="e#70#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Logistic_Regression/f-01(Introduction_to_Logistic_Regression).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" column="21" selection-start-line="36" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="e#142#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-04(Plotting_Decison_Boundary_on_Iris_Dataset_using_SVM).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/SVM/f-02(Understanding_Effects_of_C_on_Decision_Boundary).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="46" column="5" selection-start-line="46" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Logistic_Regression/f-02(Plotting_Logistic_Regression).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/KNN/KNN Scratch.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/KNN-original.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-03(Building_KNN_from_Scratch).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#74#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/KNN Scratch.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-02(Understanding_Cross_Validation_and_relation_between_K_and_Score ).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/K-Nearest Neighbour/f-01(Introduction_to_KNN).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="23" selection-end-line="26" />
+          <folding>
+            <element signature="e#83#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-01(Introduction to Matplotlib).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="50" column="92" selection-start-line="50" selection-start-column="92" selection-end-line="50" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-02(Customizing_our_Graphs).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="84" lean-forward="true" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/iris_dataframe.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/Plotting_Graphs/f-03(Creating_Pie_Charts).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/linear_regression_on_dummy.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Linear_Regression/data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/f-03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Regression_Techniques/Multi_Variable_ Regression_and_Gradient-Descent/GradientDescent.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Projects/Decision_Tree_Project/first_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Decision_Trees/Decision Trees1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/f-01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/f-01(Introduction_to_Decision_Trees).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Decision_Trees/Decision Trees1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Random_Forests/f-01(Introduction_to_Random_Forest_and_Comparison_with_Decision_Tree).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#170#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/f-05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/Matplot_Library/f-04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes/NaiveBayes5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction_To_Machine_Learning/f-02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/Classification_Techniques/Naive_Bayes/f-01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Pre_Processing_and_Model_Evaluation/titanic_train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

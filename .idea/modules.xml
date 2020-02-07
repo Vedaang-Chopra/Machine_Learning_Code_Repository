@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Deep_Learning/.idea/Deep_Learning.iml" filepath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Deep_Learning/.idea/Deep_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Deep_Learning_Code_Repository/.idea/Deep_Learning_Code_Repository.iml" filepath="$PROJECT_DIR$/../Deep_Learning_Code_Repository/.idea/Deep_Learning_Code_Repository.iml" />
+      <module fileurl="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/Machine_Learning.iml" filepath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Codes/.idea/Machine_Learning.iml" />
+      <module fileurl="file://D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Projects/.idea/Machine_Learning_Projects.iml" filepath="D:/Projects/Projects/Python Projects/Machine and Deep Learning/Machine_Learning_Projects/.idea/Machine_Learning_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Machine_Learning_Tutorial.iml" filepath="$PROJECT_DIR$/.idea/Machine_Learning_Tutorial.iml" />
+      <module fileurl="file://D:/Development/Code Repository/Python Code Repository/.idea/Python_Tutorial.iml" filepath="D:/Development/Code Repository/Python Code Repository/.idea/Python_Tutorial.iml" />
+    </modules>
+  </component>
+</project>
